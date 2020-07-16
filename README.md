@@ -15,3 +15,5 @@ There Are 2 File ADC.c And ADC.h
 |Name            |Parameters                     |Return Type                         |
 |----------------|-------------------------|-----------------|
 int analogRead(ADC_HandleTypeDef)|ADC_HandleTypeDef|int
+# Example
+## int adcValue = analogRead(hadc1);
