@@ -8,7 +8,7 @@ There Are 2 File ADC.c And ADC.h
 
 # Installation
 
- - Copy Both Files From Src Folder To Your Folder main.c
+ - Copy Both Files From Src Folder To Your Folder Containing main.c File
 - Include ADC.h in Your File 
 # Library Functions
 
